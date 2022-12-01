@@ -1,0 +1,48 @@
+CREATE TABLE Route_115
+(
+    UAlbany_Campus_Center	varchar(300),
+	UAlbany_SEFCU_Center	varchar(300),
+    Western_Ave_and_Tryon_Pl	varchar(300),
+    Western_Ave_and_Homestead_St	varchar(300),
+    Western_Ave_and_Magazine_St	varchar(300),
+    Western_Ave_and_Locust_St	varchar(300),
+    Western_Ave_and_Russell_Rd	varchar(300),
+    Western_Ave_and_Hillcrest_Ave	varchar(300),
+    Western_Ave_and_Daytona_Ave	varchar(300),
+    Western_Ave_and_Brevator_St	varchar(300),
+    Western_Ave_and_Ormond_St_Davis_Ave	varchar(300),
+    Western_Ave_and_Colonial_Ave	varchar(300),
+    Western_Ave_and_Holmes_Dale_Ave	varchar(300),
+    Western_Ave_and_Brookline_Ave	varchar(300),
+    Western_Ave_and_S_Manning_Blvd	varchar(300),
+    Western_Ave_and_N_Allen_St	varchar(300),
+    Western_Ave_and_W_Lawrence_St	varchar(300),
+    Western_Ave_and_N_Main_Ave	varchar(300),
+    Western_Ave_and_Partridge_St	varchar(300),
+    Western_Ave_and_Ontario_St	varchar(300),
+    Western_Ave_and_Quail_St	varchar(300),
+    Washington_Ave_and_Robin_St_Draper_Hall	varchar(300),
+    Washington_Ave_and_Robin_St	varchar(300),
+    Robin_St_and_Western_Ave	varchar(300),
+    Backside_of_Draper_on_Western_Ave	varchar(300),
+    UAlbany_DT_Campus_Western_Ave_and_Thurlow_Terr	varchar(300),
+    Western_Ave_and_N_Lake_Ave	varchar(300),
+    Madison_Ave_and_Robin_St	varchar(300),
+    Madison_Ave_and_New_Scotland_Ave	varchar(300),
+    Madison_Ave_and_Willett_St	varchar(300),
+    Madison_Ave_and_Delaware_Ave	varchar(300),
+    Madison_Ave_and_Dove_St	varchar(300),
+    Madison_Ave_and_S_Swan_St	varchar(300),
+    NY_State_Museum	varchar(300),
+    State_St_and_Eagle_St	varchar(300),
+    S_Pearl_Station_State_St_and_S_Pearl_St	varchar(300),
+    Broadway_and_Steuben_St	varchar(300)
+);
+
+INSERT INTO Route_115
+VALUES
+    ('7:15 PM','7:16 PM','7:19 PM','7:19 PM','7:19 PM','7:20 PM', '7:20 PM', '7:21 PM', '7:23 PM', '7:24 PM', '7:24 PM', '7:25 PM', '7:26 PM', '7:27 PM', '7:28 PM', '7:30 PM', '7:30 PM', '7:31 PM', '7:33 PM', '7:34 PM', '7:35 PM', '7:36 PM', '7:36 PM', '7:36 PM', '7:37 PM', '7:37 PM', '7:37 PM', '7:38 PM', '7:39 PM', '7:39 PM', '7:40 PM', '7:40 PM', '7:41 PM', '7:41 PM', '7:43 PM', '7:44 PM', '7:45 PM'),
+    ('8:15 PM', '8:16 PM', '8:19 PM', '8:19 PM', '8:19 PM', '8:20 PM', '8:20 PM', '8:21 PM', '8:23 PM', '8:24 PM', '8:24 PM', '8:25 PM', '8:26 PM', '8:27 PM', '8:28 PM', '8:30 PM', '8:30 PM', '8:31 PM', '8:33 PM', '8:34 PM', '8:35 PM', '8:36 PM', '8:36 PM', '8:36 PM', '8:37 PM', '8:37 PM', '8:37 PM', '8:38 PM', '8:39 PM', '8:39 PM', '8:40 PM', '8:40 PM', '8:41 PM', '8:41 PM', '8:43 PM', '8:44 PM', '8:45 PM'),
+    ('9:15 PM', '9:16 PM', '9:19 PM', '9:19 PM', '9:19 PM', '9:20 PM', '9:20 PM', '9:21 PM', '9:23 PM', '9:24 PM', '9:24 PM', '9:25 PM', '9:26 PM', '9:27 PM', '9:28 PM', '9:30 PM', '9:30 PM', '9:31 PM', '9:33 PM', '9:34 PM', '9:35 PM', '9:36 PM', '9:36 PM', '9:36 PM', '9:37 PM', '9:37 PM', '9:37 PM', '9:38 PM', '9:39 PM', '9:39 PM', '9:40 PM', '9:40 PM', '9:41 PM', '9:41 PM', '9:43 PM', '9:44 PM', '9:45 PM'),
+    ('10:25 PM', '10:26 PM', '10:29 PM', '10:29 PM', '10:29 PM', '10:30 PM', '10:30 PM', '10:31 PM', '10:33 PM', '10:34 PM', '10:34 PM', '10:35 PM', '10:36 PM', '10:37 PM', '10:38 PM', '10:40 PM', '10:40 PM', '10:41 PM', '10:43 PM', '10:44 PM', '10:45 PM', '10:46 PM', '10:46 PM', '10:46 PM', '10:47 PM', '10:47 PM', '10:47 PM', '10:48 PM', '10:49 PM', '10:49 PM', '10:50 PM', '10:50 PM', '10:51 PM', '10:51 PM', '10:53 PM', '10:54 PM', '10:55 PM'),
+    ('11:35 PM', '11:36 PM', '11:39 PM', '11:39 PM', '11:39 PM', '11:40 PM', '11:40 PM', '11:41 PM', '11:43 PM', '11:44 PM', '11:44 PM', '11:45 PM', '11:46 PM', '11:47 PM', '11:48 PM', '11:50 PM', '11:50 PM', '11:51 PM', '11:53 PM', '11:54 PM', '11:55 PM', '11:56 PM', '11:56 PM', '11:56 PM', '11:57 PM', '11:57 PM', '11:57 PM', '11:58 PM', '11:59 PM', '11:59 PM', '12:00 AM', '12:00 AM', '12:01 AM', '12:01 AM', '12:03 AM', '12:04 AM', '12:05 AM');
