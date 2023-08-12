@@ -12,7 +12,7 @@ The main goals of the project were to:
 
 ## Project Status
 
-As of now, the UAlbany Life project remains unfinished and is no longer being actively developed. The original plan was to host the project on AWS using Node.js, but the team later attempted to switch to PHP and deploy it on a private server owned by our professor. However, due to various challenges and constraints, the development process was halted.
+As of now, the UAlbany Life project remains unfinished and is no longer being actively developed. The original plan was to host the project on AWS using Node.js, but the team later attempted to switch to PHP and deploy it on a private server. However, due to various challenges and constraints, the development process was halted.
 
 ## Technologies Used
 
